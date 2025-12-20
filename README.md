@@ -1,0 +1,1 @@
+preseed.cfg for Debian
