@@ -1,1 +1,1 @@
-preseed.cfg for Debian
+# preseed.cfg for Debian
